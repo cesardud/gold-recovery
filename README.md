@@ -34,17 +34,11 @@ Los archivos contienen datos de sensores de la planta:
 ```bash
 git clone https://github.com/TU_USUARIO/TU_REPO.git
 2. Navega al proyecto:
-## 🚀 Cómo ejecutarlo
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/cesardud/gold-recovery.git
-2. Navega al proyecto:
-   ```bash
+```bash
    cd gold-recovery
-4. Instala las librerías requeridas:
-    ```bash
+3. Instala las librerías requeridas:
+```bash
    pip install -r requirements.txt
-6. Abre el notebook:
-    ```bash
+4. Abre el notebook:
+```bash
    jupyter notebook gold_recovery.ipynb
